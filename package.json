@@ -1,0 +1,14 @@
+{
+  "name": "sbut_lib_units",
+  "version": "1.0.0",
+  "description": "SBut Lib Units",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sbut"
+  ],
+  "author": "Van Thong - SBut Platform",
+  "license": "ISC"
+}
